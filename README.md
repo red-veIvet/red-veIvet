@@ -3,7 +3,6 @@
 
 <div id="header" align="center">
 
-[ata](https://loonatic.atabook.org/)⠀⠀[prns.cc](https://pronouns.cc/@haikaveh)⠀⠀[lovemail](https://rentry.co/lovelystain)⠀⠀[gunslol](https://guns.lol/angelverse)⠀⠀
 
 <div id="header" align="center">
 
